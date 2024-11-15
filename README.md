@@ -17,3 +17,7 @@ Tools Used
 
  Python libraries: Pandas, NumPy, Seaborn, Matplotlib.
  Scikit-learn for machine learning and predictive modeling
+
+ Outcome
+  The project helps optimize resource allocation, ensuring the Seoul Bike Sharing Program can meet user demand 
+    efficiently while minimizing operational costs.
